@@ -1,9 +1,7 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
-### Hi there, I'm Mattia👋
+## Hi there, I'm Mattia👋
 
-<hr/>
 
-## I'm a Computer Science student at the University of Bucharest
+### I'm a Computer Science student at the University of Bucharest
 
 - 📚 Currently learning everything 
 - 💬 Open to any opportunity
@@ -11,6 +9,7 @@
 - ⚡ Hobbies: I love to walk and learn
 - 📫 How to reach me: mattiaiojica@gmail.com
 
+<hr>
 
 ### Connect with me:
 
@@ -22,8 +21,9 @@
 
 <br/>
 <br/>
+<hr>
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
