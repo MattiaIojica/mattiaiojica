@@ -1,7 +1,7 @@
 ## Hi there, I'm Mattia👋
 
 
-### Computer Science student at the University of Bucharest
+### Computer Science student at University of Bucharest
 
 - 📚 Currently learning everything 
 - 💬 Open to any opportunity
