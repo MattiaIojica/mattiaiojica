@@ -1,12 +1,12 @@
 ## Hi there, I'm Mattia👋
 
 
-### Computer Science student at University of Bucharest
+### Computer Science graduate at University of Bucharest
 
 - 📚 Currently learning everything 
 - 💬 Open to any opportunity
 - ✨ 2022 Goals: Cool Internship
-- ⚡ Hobbies: Coding, walking, football, learning
+- ⚡ Hobbies: Coding, walking, sport
 - 📫 How to reach me: mattiaiojica@gmail.com
 
 <hr>
