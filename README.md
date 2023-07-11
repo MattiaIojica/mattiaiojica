@@ -5,7 +5,6 @@
 
 - 📚 Currently learning everything 
 - 💬 Open to any opportunity
-- ✨ 2022 Goals: Cool Internship
 - ⚡ Hobbies: Coding, walking, sport
 - 📫 How to reach me: mattiaiojica@gmail.com
 
