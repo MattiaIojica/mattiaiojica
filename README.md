@@ -32,7 +32,7 @@ and polished design.
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/mattiaiojica/)
+- [LinkedIn](https://bit.ly/3S1sWb3)
 - [GitHub](https://github.com/mattiaiojica)
 
 ## 📊 GitHub Stats
