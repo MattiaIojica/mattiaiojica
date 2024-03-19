@@ -25,7 +25,7 @@ and polished design.
 ## 🌱 I'm Currently Learning
 
 - Deepening my understanding of data structures and algorithms
-- Learning the latest features of Java 17 and upcoming releases
+- Learning about Java and it's features
 - Mastering API design principles and best practices
 - Implementing RESTful APIs with Spring REST
 - Studying advanced SQL queries and database indexing strategies
@@ -36,8 +36,10 @@ and polished design.
 - [GitHub](https://github.com/mattiaiojica)
 
 ## 📊 GitHub Stats
-
+<!---
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiaiojica&show_icons=true&count_private=true&hide=issues&theme=radical)
+-->
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mattiaiojica&color=blueviolet)
 
